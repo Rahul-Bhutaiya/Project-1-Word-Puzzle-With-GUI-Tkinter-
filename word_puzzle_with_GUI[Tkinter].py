@@ -8,7 +8,7 @@ main_layout.title('Word Puzzle')
 main_layout.state('zoomed')
 main_layout.iconbitmap('image\puzzle_logo.ico')
 
-count,score=0,0
+count,score=0,200
 word_list=['father','break','country','green','aeroplane','india','creative','power','computer','python','website','koo','neuralink','english','vaccine','engine','advocate','ancient','beyond','campaign','champion','circle','citizen']
 
 def play():
